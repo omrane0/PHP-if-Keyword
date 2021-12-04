@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+$a = 4;
+if($a < 5) {
+  echo "Less than five";
+}
+?>
+
+</body>
+</html>
+
+
+
+
+
+
+Less than five
